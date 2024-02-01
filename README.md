@@ -15,7 +15,7 @@ During my studies, I have gained experience with the following tools, technologi
 * Agile methodologies, SCRUM
 * etc.
 
-  Don't hesitate to contact me at [denisaneagu122@yahoo.com](mailto:denisaneagu122@yahoo.com?subject=[GitHub]%20Source%20Han%20Sans)
+Don't hesitate to contact me at [denisaneagu122@yahoo.com](mailto:denisaneagu122@yahoo.com?subject=[GitHub]%20Source%20Han%20Sans) !
 
 <!--
 **denisa122/denisa122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
