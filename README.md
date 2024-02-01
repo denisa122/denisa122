@@ -13,6 +13,7 @@ During my studies, I have gained experience with the following tools, technologi
 * Docker
 * Azure DevOps
 * Agile methodologies, SCRUM
+* Figma
 * etc.
 
 :mailbox_with_no_mail: Don't hesitate to contact me at [denisaneagu122@yahoo.com](mailto:denisaneagu122@yahoo.com?subject=[GitHub]%20Source%20Han%20Sans) !
