@@ -17,6 +17,10 @@ During my studies, I have gained experience with the following tools, technologi
 
 :mailbox_with_no_mail: Don't hesitate to contact me at [denisaneagu122@yahoo.com](mailto:denisaneagu122@yahoo.com?subject=[GitHub]%20Source%20Han%20Sans) !
 
+<p><strong>Github stats:</strong></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisa122&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **denisa122/denisa122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
