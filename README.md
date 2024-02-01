@@ -1,5 +1,7 @@
 ### Hi there, I'm Denisa! 👋
 
+I am currently pursuing a Bachelor program in Web Development at Business Academy SouthWest, located in Esbjerg, Denmark. Prior to this, I completed an AP Degree in Computer Science at UCN Aalborg, Denmark.
+
 <!--
 **denisa122/denisa122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
