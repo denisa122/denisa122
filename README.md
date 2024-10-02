@@ -3,9 +3,10 @@
 I am currently pursuing a Bachelor program in Web Development at Business Academy SouthWest, located in Esbjerg, Denmark. Prior to this, I completed an AP Degree in Computer Science at UCN Aalborg, Denmark.
 
 During my studies, I have gained experience with the following tools, technologies and frameworks:
+* JavaScript
 * C#
 * PHP
-* HTML, CSS, Bootstrap, Tailwind CSS, JavaScript
+* HTML, CSS, Bootstrap, Tailwind CSS
 * ASP.NET
 * SQL, MSSQL
 * RESTful Web API
