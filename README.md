@@ -17,7 +17,7 @@ During my studies, I have gained experience with the following tools, technologi
 * Figma
 * etc.
 
-:mailbox_with_no_mail: Don't hesitate to contact me at [denisaneagu122@yahoo.com](mailto:denisaneagu122@yahoo.com?subject=[GitHub]%20Source%20Han%20Sans) !
+:mailbox_with_no_mail: Don't hesitate to contact me at [neagudenisa122@gmail.com](mailto:neagudenisa122@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) !
 
 <p><strong>Github stats:</strong></p>
 
