@@ -26,7 +26,7 @@ I am a computer science and automation enthusiast based in Poland. I have comple
 
 ## 📫 Contact Me
 Don't hesitate to contact me at [neagudenisa122@gmail.com](mailto:neagudenisa122@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) !
-You can also message me on :link: [LinkedIn](https://www.linkedin.com/in/your-profile-url/)
+You can also message me on [LinkedIn](https://www.linkedin.com/in/your-profile-url/) .
 
 <p><strong>Github stats:</strong></p>
 
