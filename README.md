@@ -2,7 +2,7 @@
 
 I am a computer science and automation enthusiast based in Poland. I have completed:
 - **Bachelor in Web Development**, Business Academy SouthWest, Esbjerg, Denmark  
-- **AP Degree in Computer Science**, UCN Aalborg, Denmark  
+- **AP Degree in Computer Science**, University College of Northern Denmark, Aalborg, Denmark  
 - **UiPath RPA Developer Foundation Course**, UiPath Academy
 
 ## 💻 Technical Skills
@@ -24,7 +24,9 @@ I am a computer science and automation enthusiast based in Poland. I have comple
 - Email Automation, PDF Automation, Excel Automation
 - UI Automation
 
-:mailbox_with_no_mail: Don't hesitate to contact me at [neagudenisa122@gmail.com](mailto:neagudenisa122@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) !
+## 📫 Contact Me
+Don't hesitate to contact me at [neagudenisa122@gmail.com](mailto:neagudenisa122@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) !
+You can also message me on :link: [LinkedIn](https://www.linkedin.com/in/your-profile-url/)
 
 <p><strong>Github stats:</strong></p>
 
