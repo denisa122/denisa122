@@ -1,21 +1,28 @@
-### Hi there, I'm Denisa! 👋
+## Hi there, I'm Denisa! 👋
 
-I am currently pursuing a Bachelor program in Web Development at Business Academy SouthWest, located in Esbjerg, Denmark. Prior to this, I completed an AP Degree in Computer Science at UCN Aalborg, Denmark.
+I am a computer science and automation enthusiast based in Poland. I have completed:
+- **Bachelor in Web Development**, Business Academy SouthWest, Esbjerg, Denmark  
+- **AP Degree in Computer Science**, UCN Aalborg, Denmark  
+- **UiPath RPA Developer Foundation Course**, UiPath Academy
 
-During my studies, I have gained experience with the following tools, technologies and frameworks:
-* JavaScript
-* C#
-* PHP
-* HTML, CSS, Bootstrap, Tailwind CSS
-* ASP.NET
-* SQL, MSSQL
-* RESTful Web API
-* Git, GitHub
-* Docker
-* Azure DevOps
-* Agile methodologies, SCRUM
-* Figma
-* etc.
+## 💻 Technical Skills
+### Web & Backend Development
+- Frontend: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js
+- Backend: Node.js, Express, PHP, ASP.NET
+- Databases: SQL, MSSQL, MongoDB
+- APIs: RESTful Web API
+### DevOps & Tools
+- Git, GitHub
+- Docker
+- Azure DevOps
+- Agile methodologies, SCRUM
+- Figma
+### Robotic Process Automation (RPA)
+- UiPath Studio & Orchestrator
+- Workflow design
+- Debugging, Exception handling
+- Email Automation, PDF Automation, Excel Automation
+- UI Automation
 
 :mailbox_with_no_mail: Don't hesitate to contact me at [neagudenisa122@gmail.com](mailto:neagudenisa122@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) !
 
