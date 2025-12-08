@@ -25,10 +25,10 @@ I am a computer science and automation enthusiast based in Poland. I have comple
 - UI Automation
 
 ## 📫 Contact Me
-Don't hesitate to contact me at [neagudenisa122@gmail.com](mailto:neagudenisa122@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) !
+Don't hesitate to contact me at [neagudenisa122@gmail.com](mailto:neagudenisa122@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) ! <br>
 You can also message me on [LinkedIn](https://www.linkedin.com/in/your-profile-url/) .
 
-<p><strong>Github stats:</strong></p>
+## Github stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisa122&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
