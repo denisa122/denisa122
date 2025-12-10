@@ -28,10 +28,12 @@ I am a computer science and automation enthusiast based in Poland. I have comple
 Don't hesitate to contact me at [neagudenisa122@gmail.com](mailto:neagudenisa122@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) ! <br>
 You can also message me on [LinkedIn](https://www.linkedin.com/in/denisa-gabriela-neagu/).
 
+<!-- Commented out due to temporarily not working links
 ## 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisa122&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=denisa122&show_icons=true)
+-->
 
 <!--
 **denisa122/denisa122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
